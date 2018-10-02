@@ -1,3 +1,8 @@
+/**
+ * 
+ * @author kimyang
+ * Input Rectangle Homework
+ */
 import java.util.Scanner;
 
 public class InputPractice 
